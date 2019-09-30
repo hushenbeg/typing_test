@@ -1,16 +1,14 @@
-#+TITLE: Typing Test
+## Typing Test
 
-* Description
-A simple HTML5 typing test webapp written with [[http://www.ecma-international.org/ecma-262/6.0/][ECMAScript 2015]],
-compiled with [[https://babeljs.io/][Babel]], styled with [[http://sass-lang.com/][Sass]], and developed using [[https://github.com/lepture/python-livereload][Python
-LiveReload]].
+## Description
+A simple HTML5 typing test webapp written with html, css and javascript.
 
-Inspired by [[http://10fastfingers.com/typing-test/english][10fastfingers]].
+## How to run this project
+1) Install the flask by using following command:
+    # pip install flask
+2) Run the project:
+    # python server.py
 
-* Screenshots
-[[file:/screenshots/test.png]]
-[[file:/screenshots/results.png]]
-* Developing
 Execute 
 #+BEGIN_SRC sh
   python server.py
