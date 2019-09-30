@@ -1,6 +1,4 @@
-#+TITLE: ES6 Typing Test
-#+AUTHOR: Adam Schwartz
-#+DATE: June 24, 2015
+#+TITLE: Typing Test
 
 * Description
 A simple HTML5 typing test webapp written with [[http://www.ecma-international.org/ecma-262/6.0/][ECMAScript 2015]],
@@ -17,8 +15,3 @@ Execute
 #+BEGIN_SRC sh
   python server.py
 #+END_SRC
-
-* Resources
-- [[https://github.com/lukehoban/es6features][es6features]]
-- [[http://www.world-english.org/english500.htm][500 most common English words]]
-- [[http://www.speedtypingonline.com/typing-equations][calculate wpm]]
